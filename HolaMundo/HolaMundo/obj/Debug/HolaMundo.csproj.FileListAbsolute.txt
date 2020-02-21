@@ -1,0 +1,6 @@
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

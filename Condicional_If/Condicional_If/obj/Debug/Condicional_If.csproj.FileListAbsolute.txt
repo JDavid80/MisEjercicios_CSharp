@@ -1,0 +1,6 @@
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Condicional_If\Condicional_If\bin\Debug\Condicional_If.exe
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Condicional_If\Condicional_If\bin\Debug\Condicional_If.pdb
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Condicional_If\Condicional_If\obj\Debug\Condicional_If.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Condicional_If\Condicional_If\obj\Debug\Condicional_If.csproj.CoreCompileInputs.cache
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Condicional_If\Condicional_If\obj\Debug\Condicional_If.exe
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Condicional_If\Condicional_If\obj\Debug\Condicional_If.pdb

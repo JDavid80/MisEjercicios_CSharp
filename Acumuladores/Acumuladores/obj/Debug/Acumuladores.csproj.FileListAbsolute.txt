@@ -1,0 +1,6 @@
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Acumuladores\Acumuladores\bin\Debug\Acumuladores.exe
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Acumuladores\Acumuladores\bin\Debug\Acumuladores.pdb
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Acumuladores\Acumuladores\obj\Debug\Acumuladores.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Acumuladores\Acumuladores\obj\Debug\Acumuladores.csproj.CoreCompileInputs.cache
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Acumuladores\Acumuladores\obj\Debug\Acumuladores.exe
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Acumuladores\Acumuladores\obj\Debug\Acumuladores.pdb

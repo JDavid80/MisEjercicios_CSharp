@@ -1,0 +1,6 @@
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Arreglos\Arreglos\obj\Debug\Arreglos.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Arreglos\Arreglos\obj\Debug\Arreglos.pdb

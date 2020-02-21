@@ -1,0 +1,6 @@
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Condicional_Switch\Condicional_Switch\bin\Debug\Condicional_Switch.exe
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Condicional_Switch\Condicional_Switch\bin\Debug\Condicional_Switch.pdb
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Condicional_Switch\Condicional_Switch\obj\Debug\Condicional_Switch.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Condicional_Switch\Condicional_Switch\obj\Debug\Condicional_Switch.csproj.CoreCompileInputs.cache
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Condicional_Switch\Condicional_Switch\obj\Debug\Condicional_Switch.exe
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Condicional_Switch\Condicional_Switch\obj\Debug\Condicional_Switch.pdb

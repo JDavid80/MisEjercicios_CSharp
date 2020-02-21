@@ -1,0 +1,6 @@
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Repetitiva_While\Repetitiva_While\bin\Debug\Repetitiva_While.exe
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Repetitiva_While\Repetitiva_While\bin\Debug\Repetitiva_While.pdb
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.csproj.CoreCompileInputs.cache
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.exe
+C:\Users\David\Dropbox\SENA_2020\Titulados\1961869\Ejercicios\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.pdb
