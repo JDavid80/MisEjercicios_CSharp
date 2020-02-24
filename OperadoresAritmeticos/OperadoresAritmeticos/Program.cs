@@ -11,21 +11,18 @@ class Program
         Operaciones[3] = "División";
         Operaciones[4] = "Error";
         int OpUsuario = 0;
-        int Resultado = 0;
-        int Num1 = 0;
-        int Num2 = 0;
+        decimal Resultado = 0;
+        decimal Num1 = 0;
+        decimal Num2 = 0;
         string RespuestaUsuario = "";
         Console.WriteLine("Desea realizar algun tipo de operación: (Y/N)");
         RespuestaUsuario = Console.ReadLine();
         while (RespuestaUsuario == "Y")
         {
             Console.Write("Ingrese el primer entero: ");
-            Int32.TryParse(Console.ReadLine(), out Num1);
-            Console.WriteLine("Numero Ingresado: " + Num1);
-            Console.ReadLine();
-            //Num1 = Convert.ToInt32(Console.ReadLine());
+            Decimal.TryParse(Console.ReadLine(), out Num1);
             Console.Write("Ingrese el segundo entero: ");
-            Num2 = Convert.ToInt32(Console.ReadLine());
+            Decimal.TryParse(Console.ReadLine(), out Num2);
             for (int op = 0; op <= 3; op++)
             {
                 Console.WriteLine((op + 1) + ". " + Operaciones[op]);
@@ -54,7 +51,22 @@ class Program
                     Console.WriteLine("No seleccionó una operación válida.");
                     break;
             }
-            Console.WriteLine("El resultado de la operación es: " + Resultado);
+            if (OpUsuario == 4)
+            {
+                decimal Aux = Num1 % Num2;
+                if (Aux != 0)
+                {
+                    Console.WriteLine("El resultado de la operación es: {0:F3}", Resultado);
+                }
+                else
+                {
+                    Console.WriteLine("El resultado de la operación es: " + Resultado);
+                }
+            }
+            else
+            {
+                Console.WriteLine("El resultado de la operación es: " + Resultado);
+            }
             Console.WriteLine("Desea realizar otra operación: (Y/N)");
             RespuestaUsuario = Console.ReadLine();
         }
